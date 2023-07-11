@@ -1,3 +1,5 @@
+-- language: sql
+
 Create table if not exists Estado (
 Id INT auto_increment primary key,
 Nome VARCHAR(50) not null unique,
