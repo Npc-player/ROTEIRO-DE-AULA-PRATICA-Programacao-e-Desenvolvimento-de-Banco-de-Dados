@@ -2,3 +2,4 @@
 * text=auto
 git config --global core.autocrlf false
 * .sql linguist-language=SQL
+*.sql linguist-language=SQL
