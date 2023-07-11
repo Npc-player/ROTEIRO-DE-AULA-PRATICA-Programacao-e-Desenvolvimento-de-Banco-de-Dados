@@ -1,3 +1,5 @@
+-- language: sql
+
 CREATE OR REPLACE view v_SemPagar as
 SELECT CR.Id as 'CODIGO',
 	C.Nome as 'NOME DO CLIENTE',
