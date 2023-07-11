@@ -1,3 +1,5 @@
+-- language: sql
+
 insert ignore into estado(Nome, UF) 
 values
 ('São Paulo', 'SP'), 
